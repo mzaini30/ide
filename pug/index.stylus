@@ -1,0 +1,15 @@
+*
+	word-wrap break-word
+	
+body
+	padding-bottom 50px
+	
+.navbar-fixed-bottom
+	.table
+		margin-bottom 0
+		&
+		tr
+		td 
+			border 0 !important
+	.btn
+		width 100%
